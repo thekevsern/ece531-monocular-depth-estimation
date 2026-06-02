@@ -1,0 +1,5 @@
+Model,Protocol,AbsRel,RMSE,Log_RMSE,Delta_1,Delta_2,Delta_3
+DPT-Hybrid Baseline,Per-image median scaling,0.173661,7.258705,0.259475,0.722725,0.906059,0.963713
+DPT-Hybrid Proposed,Per-image median scaling,0.173391,7.246867,0.258839,0.723564,0.906264,0.964032
+ZoeDepth NYU-only,Per-image median scaling,0.17315,8.042714,0.279381,0.724409,0.89746,0.952398
+Depth Anything V2 Small,Reciprocal conversion + per-image median scaling,0.101811,4.884334,0.145967,0.918207,0.978152,0.991765

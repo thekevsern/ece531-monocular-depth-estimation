@@ -1,0 +1,2 @@
+Model,Protocol,AbsRel,RMSE,Log_RMSE,Delta_1,Delta_2,Delta_3
+Depth Anything V2 Small,Per-image affine alignment in inverse-depth space,0.081254,3.641081,0.123316,0.939489,0.986813,0.995682

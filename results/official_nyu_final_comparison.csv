@@ -1,0 +1,10 @@
+Metric,Preferred_Direction,Official_Baseline,Official_Proposed,Proposed_Minus_Baseline,Improvement_Percent
+AbsRel,lower,0.186333,0.186628,0.000295,-0.15831
+RMSE,lower,0.645669,0.646928,0.001259,-0.195006
+Log_RMSE,lower,0.220472,0.22098,0.000508,-0.230576
+Delta_1,higher,0.703924,0.702385,-0.001539,-0.2186
+Delta_2,higher,0.930052,0.929625,-0.000427,-0.04596
+Delta_3,higher,0.980054,0.979914,-0.00014,-0.014243
+Boundary_AbsRel,lower,0.199551,0.199868,0.000317,-0.158816
+Boundary_RMSE,lower,0.802063,0.803312,0.001248,-0.155621
+Above_Maximum_Depth_Ratio,lower,0.000271,0.000278,7e-06,-2.565279

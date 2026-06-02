@@ -1,0 +1,4 @@
+Model,Protocol,AbsRel,RMSE,Log_RMSE,Delta_1,Delta_2,Delta_3
+DPT-Hybrid Baseline,Direct metric transfer,0.81133,16.763387,1.726918,0.000498,0.00119,0.002533
+DPT-Hybrid Proposed,Direct metric transfer,0.811048,16.756641,1.725333,0.00051,0.001208,0.00257
+ZoeDepth NYU-only,Direct metric transfer,0.737523,15.938312,1.401537,3.4e-05,0.000146,0.000873
