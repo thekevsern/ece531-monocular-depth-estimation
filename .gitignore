@@ -1,0 +1,35 @@
+# Python cache files
+
+**pycache**/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets
+
+.env
+*.env
+HF_TOKEN
+*.key
+
+# Dataset archives and extracted data
+
+data/
+datasets/
+*.zip
+*.tar
+*.h5
+
+# Large model files and checkpoints
+
+models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Operating-system files
+
+.DS_Store
+Thumbs.db
