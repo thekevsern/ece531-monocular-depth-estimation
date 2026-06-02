@@ -1,0 +1,14 @@
+datasets==3.6.0
+transformers==4.56.2
+huggingface-hub==0.35.3
+accelerate>=1.0,<2.0
+safetensors>=0.4,<1.0
+Pillow==11.3.0
+pandas==2.2.2
+requests==2.32.4
+numpy
+torch
+h5py
+matplotlib
+scipy
+gdown
